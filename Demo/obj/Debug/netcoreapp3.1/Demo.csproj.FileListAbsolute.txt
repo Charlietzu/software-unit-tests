@@ -1,0 +1,9 @@
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.csprojAssemblyReference.cache
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
