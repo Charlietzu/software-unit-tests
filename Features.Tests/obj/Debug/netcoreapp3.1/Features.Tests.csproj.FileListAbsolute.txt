@@ -101,3 +101,5 @@ C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\ne
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Features.dll
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Features.pdb
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Moq.dll
