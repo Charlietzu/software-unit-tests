@@ -7,3 +7,11 @@ C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.Ass
 C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
 C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.dll
 C:\Users\Caio\Documents\projetos\UnitTests\Demo\obj\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\bin\Debug\netcoreapp3.1\Demo.deps.json
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\bin\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\bin\Debug\netcoreapp3.1\Demo.pdb
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\obj\Debug\netcoreapp3.1\Demo.AssemblyInfo.cs
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\obj\Debug\netcoreapp3.1\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\obj\Debug\netcoreapp3.1\Demo.dll
+C:\Users\Caio\Documents\projetos\software-unit-tests\Demo\obj\Debug\netcoreapp3.1\Demo.pdb

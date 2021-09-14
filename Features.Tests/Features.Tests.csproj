@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Bogus" Version="33.1.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
     <PackageReference Include="xunit" Version="2.4.1" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.4.3">
@@ -20,13 +21,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="01 - Traits\" />
-    <Folder Include="02 - Fixtures\" />
-    <Folder Include="03 - Order\" />
-    <Folder Include="04 - Human Data\" />
     <Folder Include="05 - Mock\" />
     <Folder Include="06 - AutoMock\" />
     <Folder Include="07 - FluentAssertions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Features\Features.csproj" />
   </ItemGroup>
 
 </Project>
