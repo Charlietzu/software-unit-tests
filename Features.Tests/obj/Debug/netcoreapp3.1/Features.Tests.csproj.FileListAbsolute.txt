@@ -103,3 +103,4 @@ C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\ne
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Bogus.dll
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\Caio\Documents\projetos\software-unit-tests\Features.Tests\bin\Debug\netcoreapp3.1\Moq.AutoMock.dll

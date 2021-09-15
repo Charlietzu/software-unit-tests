@@ -11,6 +11,7 @@
           "Bogus": "33.1.1",
           "Features": "1.0.0",
           "Moq": "4.16.1",
+          "Moq.AutoMock": "3.0.0",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "coverlet.collector": "3.0.2",
           "xunit": "2.4.1",
@@ -364,6 +365,17 @@
           "lib/netstandard2.1/Moq.dll": {
             "assemblyVersion": "4.16.0.0",
             "fileVersion": "4.16.1.0"
+          }
+        }
+      },
+      "Moq.AutoMock/3.0.0": {
+        "dependencies": {
+          "Moq": "4.16.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Moq.AutoMock.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
           }
         }
       },
@@ -1334,6 +1346,13 @@
       "sha512": "sha512-bw3R9q8cVNhWXNpnvWb0OGP4HadS4zvClq+T1zf7AF+tLY1haZ2AvbHidQekf4PDv1T40c6brZeT/V0IBq7cEQ==",
       "path": "moq/4.16.1",
       "hashPath": "moq.4.16.1.nupkg.sha512"
+    },
+    "Moq.AutoMock/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VKWe6BtSiBSf7k8/ei5M37EmCL0nSsOLW8OtopqLfFhEepL4MaMSRvPT2oHLlxOTAnOUsroAGrvjXcETJjDWng==",
+      "path": "moq.automock/3.0.0",
+      "hashPath": "moq.automock.3.0.0.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

@@ -58,6 +58,10 @@
               "target": "Package",
               "version": "[4.16.1, )"
             },
+            "MOQ.automock": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.9.4, )"
